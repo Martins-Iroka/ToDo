@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="todo_hint">ToDo</string>
+    <string name="date_hint">Date</string>
+    <string name="date_image">Date</string>
+    <string name="save_option">Save</string>
+    <string name="todo_not_done">Not Done</string>
+    <string name="todo_done">Done!</string>
+    <string name="todo_completed">ToDo Completed</string>
+    <string name="empty_list_message">YOU HAVE NOTHING TO DO!</string>
+</resources>
